@@ -57,46 +57,46 @@ AWS_REGION=your_region
 AZURE_STORAGE_ACCOUNT_NAME=your_storage_account
 AZURE_STORAGE_ACCOUNT_KEY=your_account_key
 ▶️ Running CloudSentinel
-bash
-Copy
-Edit
+
 python gui/main_gui.py
+
 📷 Screenshots
 1. Dashboard – Azure Leak Scan
+(docs/images/1.png)
 
 Real-time detection from Azure Blob Storage.
 
 2. Decrypt All Logs – Full Leak View
-
+(docs/images/1.png)
 Enter your AES key to reveal all stored leaks.
 
 3. AWS Leak Scan
-
+(docs/images/1.png)
 Scanning AWS S3 bucket for leaked .env, .json, .txt files.
 
 4. Empty Dashboard
-
+(docs/images/1.png)
 No leaks detected yet.
 
 5. Azure Blob Storage – Test Container
-
+(docs/images/1.png)
 Container: cloudsentinel-test with .env and .json files.
 
 6. AWS S3 – Test Bucket
-
+(docs/images/1.png)
 Bucket: cloudsentinel-test with multiple test files.
 
 🖥 Usage Flow
 Select Provider → AWS or Azure.
-
+(docs/images/1.png)
 Enter Bucket/Container name.
 
 Click Start Scan.
 
 View results in the Leak Detection Dashboard.
-
+(docs/images/1.png)
 Click on any file → Analysis Panel shows:
-
+(docs/images/1.png)
 Leak Type
 
 Developer
@@ -114,9 +114,8 @@ To view actual values → Click Decrypt All Logs and enter your encryption key.
 🛠 Development
 Folder structure:
 
-bash
-Copy
-Edit
+
+
 CloudSentinel/
 │
 ├── gui/
