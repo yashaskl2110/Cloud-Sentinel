@@ -38,17 +38,21 @@ CloudSentinel adds **developer attribution, file decay tracking, and unified AWS
 
 ## 📸 Screenshots
 
-| Dashboard | AWS S3 bucket |
-|-----------|------------|
-| ![Dashboard](./docs/images/3.png) | ![AWS S3 bucket with test files](./docs/images/1.png) |
+| Dashboard |
+|-----------|
+| ![Dashboard](./docs/images/3.png) | 
 
-| Quarantine | Encrypted Logs | CSV Logs |
-|------------|----------------|----------|
-| ![Quarantine](./docs/images/quarantine.png) | ![Encrypted Logs](./docs/images/encrypted_logs.png) | ![CSV Logs](./docs/images/csv_logs.png) |
+| Azure Blob Container | AWS S3 bucket |
+|----------------------|----------------|
+| ![Azure Blob Container with test files](./docs/images/2.png) | ![AWS S3 bucket with test files](./docs/images/1.png) | 
 
-| Terminal Output |
-|-----------------|
-| ![Terminal](./docs/images/terminal.png) |
+| Azure Blob Leaks Detected | AWS S3 Bucket Leaks Detected |
+|---------------------------|------------------------------|
+| ![Azure Blob Leaks Detected](./docs/images/7.png) | ![AWS S3 Bucket Leaks Detected](./docs/images/4.png) |
+
+| Decryption Popup | Showing Decrypted Values |
+|------------------|---------------------------|
+| ![Decryption Popup](./docs/images/5.png). | ![Decrpted Values](./docs/images/6.png). |
 
 ---
 
