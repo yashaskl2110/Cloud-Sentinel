@@ -79,7 +79,8 @@ AZURE_STORAGE_KEY=your_key
 ▶️ Run
 python gui/main_gui.py
 
+---
 📜 Disclaimer
-
+--- 
 CloudSentinel is for educational and authorized security testing only.
 Do NOT use it on systems you don’t own or have explicit permission to test.
