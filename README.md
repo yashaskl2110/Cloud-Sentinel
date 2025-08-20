@@ -38,9 +38,9 @@ CloudSentinel adds **developer attribution, file decay tracking, and unified AWS
 
 ## 📸 Screenshots
 
-| Dashboard | Leak Popup |
+| Dashboard | AWS S3 bucket |
 |-----------|------------|
-| ![Dashboard](./docs/images/3.png) | ![Leak Popup](./docs/images/leak_popup.png) |
+| ![Dashboard](./docs/images/3.png) | ![AWS S3 bucket with test files](./docs/images/1.png) |
 
 | Quarantine | Encrypted Logs | CSV Logs |
 |------------|----------------|----------|
